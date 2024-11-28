@@ -1,3 +1,4 @@
+Pre-trained Image Classifier to Identify Dog Breeds
 This project is part of the AI Programming with Python Nanodegree by Udacity.
 
 Objectives: 
